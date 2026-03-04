@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electric Boats News</title>
+    <link>https://electric-boats-news.netlify.app</link>
+    <description>Your #1 source for electric boats, marine batteries, and sustainable maritime transport.</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Mar 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://electric-boats-news.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    
+    <item>
+      <title>Best Electric Boats 2026 - Complete Buyer's Guide</title>
+      <link>https://electric-boats-news.netlify.app/article-best-electric-boats-2026.html</link>
+      <description>Discover the best electric boats of 2026. Complete guide with top models, prices, range, features and expert reviews.</description>
+      <pubDate>Wed, 04 Mar 2026 12:00:00 GMT</pubDate>
+      <guid>https://electric-boats-news.netlify.app/article-best-electric-boats-2026.html</guid>
+    </item>
+    
+    <item>
+      <title>How Much Do Electric Boats Cost in 2026?</title>
+      <link>https://electric-boats-news.netlify.app/article-electric-boat-cost-2026.html</link>
+      <description>Electric boat prices in 2026: from budget to luxury. Complete pricing guide with costs for outboards, day boats, and premium electric vessels.</description>
+      <pubDate>Tue, 03 Mar 2026 12:00:00 GMT</pubDate>
+      <guid>https://electric-boats-news.netlify.app/article-electric-boat-cost-2026.html</guid>
+    </item>
+    
+    <item>
+      <title>Electric Boat Battery Lifespan - How Long Do They Last?</title>
+      <link>https://electric-boats-news.netlify.app/article-battery-lifespan.html</link>
+      <description>Electric boat battery lifespan: how many cycles, years, and what affects degradation. Maximize your marine battery life.</description>
+      <pubDate>Mon, 02 Mar 2026 12:00:00 GMT</pubDate>
+      <guid>https://electric-boats-news.netlify.app/article-battery-lifespan.html</guid>
+    </item>
+    
+    <item>
+      <title>Best Electric Boat Brands 2026</title>
+      <link>https://electric-boats-news.netlify.app/article-electric-boat-brands.html</link>
+      <description>Best electric boat brands 2026: Torqeedo, ePropulsion, X Shore, Ray, Silent-Yachts and more. Complete comparison of manufacturers.</description>
+      <pubDate>Sun, 01 Mar 2026 12:00:00 GMT</pubDate>
+      <guid>https://electric-boats-news.netlify.app/article-electric-boat-brands.html</guid>
+    </item>
+    
+    <item>
+      <title>Electric vs Gas Boat - Complete Comparison</title>
+      <link>https://electric-boats-news.netlify.app/article-electric-vs-gas.html</link>
+      <description>Electric boat vs gas boat: detailed comparison of costs, performance, maintenance, and environmental impact.</description>
+      <pubDate>Sat, 28 Feb 2026 12:00:00 GMT</pubDate>
+      <guid>https://electric-boats-news.netlify.app/article-electric-vs-gas.html</guid>
+    </item>
+  </channel>
+</rss>
