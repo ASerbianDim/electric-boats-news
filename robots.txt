@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://electricboats.news/sitemap.xml
+
+# Host directive for Netlify
+Host: electricboats.news
